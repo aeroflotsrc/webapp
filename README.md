@@ -16,7 +16,7 @@
 
 Так как поиск таких данных занимает много времени и ресурсов, поэтому прошу помочь в благотворительности. Полученные средства будут направлены на поиск других серьезных проблем в работе крупных корпораций из-за которых в первую очередь страдают пользователи услуг от этих самых корпораций.
 
-Кто готов сделать пожертвонание прошу переводить средства на адрес bitcoin - `3HGaNTw5dfmGXHQuLsmTp9siKFqCLJSknk`
+Кто готов сделать пожертвонание прошу переводить средства на адрес bitcoin - `3HGaNTw5dfmGXHQuLsmTp9siKFqCLJSknk` или на адрес ethereum `0xF06c5bea2ad2041A7610533cE3145AEe9CBA7DDb`
 
 Так же предоставлю скрипт, которым можно выгрузить все данные:
 
@@ -59,7 +59,7 @@ Perhaps after this publication, the corporation will pay attention to its proble
 
 Since the search for such data takes a lot of time and resources, so I ask you to help in charity. The funds received will be directed to the search for other serious problems in the work of huge corporations because of which the users of services from these same corporations primarily suffer.
 
-Who is ready to make a donation please transfer money to the address bitcoin - `3HGaNTw5dfmGXHQuLsmTp9siKFqCLJSknk`
+Who is ready to make a donation please transfer money to the address bitcoin - `3HGaNTw5dfmGXHQuLsmTp9siKFqCLJSknk` or to the address ethereum `0xF06c5bea2ad2041A7610533cE3145AEe9CBA7DDb`
 
 I will also provide a script that can unload all the data:
 
