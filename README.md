@@ -4,9 +4,9 @@ Full dump docker - https://mega.nz/#!vnYjTSAC!FNIT4MJ9P7v7YnIvDnP4AJqgpaBJBbCpdt
 
 # Negligence of the airline "Aeroflot" in the protection of data.
 
-On the Internet, it is possible to find many interesting data that are not protected in any way due to illiteracy or carelessness. Even large corporations suffer from this behavior. One of these is the Aeroflot airline. The company stores the source codes of all its web applications in public access without any authentication or encryption. H
+On the Internet, it is possible to find many interesting data that are not protected in any way due to illiteracy or carelessness. Even large corporations suffer from this behavior. One of these is the Aeroflot airline. The company stores the source codes of all its web applications in public access without any authentication or encryption. 
 
-TTP Docker is used to store the sources. The docker is available at "http://89.208.149.202:5000/v2/".
+HTTP Docker is used to store the sources. The docker is available at "http://89.208.149.202:5000/v2/".
 
 To get a list of all the repositories, it is enough to execute the query "http://89.208.149.202:5000/v2/_catalog". 
 
